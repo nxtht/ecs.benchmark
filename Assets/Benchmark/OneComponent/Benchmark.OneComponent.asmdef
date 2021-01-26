@@ -1,0 +1,20 @@
+{
+    "name": "Benchmark.OneComponent",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac50645cc9722f94394288fbb4eea6f5",
+        "GUID:36d0a11a5bf40614bacd1ffceb6b3935",
+        "GUID:7cc0957950eab994cb9884c1378aec0a",
+        "GUID:44c3150263db07f4c8218b1adc1d7678",
+        "GUID:31891341418f3124582ba17526033ca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

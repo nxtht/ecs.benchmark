@@ -1,0 +1,19 @@
+{
+    "name": "Benchmark.BouncySouter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:08da0a72d66ed3342a8749c9ea75a03e",
+        "GUID:01b636b205fef8348b3e4a6547aeba2d",
+        "GUID:6ddca2cc83de4cf4fa35ca34a4fb7a8f",
+        "GUID:31891341418f3124582ba17526033ca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

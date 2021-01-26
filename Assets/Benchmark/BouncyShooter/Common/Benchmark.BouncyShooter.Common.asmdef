@@ -1,0 +1,17 @@
+{
+    "name": "Benchmark.BouncyShooter.Common",
+    "rootNamespace": "",
+    "references": [
+        "GUID:31891341418f3124582ba17526033ca2",
+        "GUID:f9657f10179e94af08566a62f2c6a13f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

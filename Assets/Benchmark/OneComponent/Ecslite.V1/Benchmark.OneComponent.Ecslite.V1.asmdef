@@ -1,0 +1,19 @@
+{
+    "name": "Benchmark.OneComponent.Ecslite.V1",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a1c91095c437c60449aa0a10e9e3f150",
+        "GUID:ac50645cc9722f94394288fbb4eea6f5",
+        "GUID:f9657f10179e94af08566a62f2c6a13f",
+        "GUID:31891341418f3124582ba17526033ca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

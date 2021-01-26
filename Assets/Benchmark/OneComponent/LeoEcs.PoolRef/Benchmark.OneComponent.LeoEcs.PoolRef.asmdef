@@ -1,0 +1,19 @@
+{
+    "name": "Benchmark.OneComponent.LeoEcs.PoolRef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:687674228d492604bba161a5ffaa479c",
+        "GUID:ac50645cc9722f94394288fbb4eea6f5",
+        "GUID:f9657f10179e94af08566a62f2c6a13f",
+        "GUID:31891341418f3124582ba17526033ca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

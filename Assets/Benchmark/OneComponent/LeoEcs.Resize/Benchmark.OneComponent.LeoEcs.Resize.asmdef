@@ -1,0 +1,19 @@
+{
+    "name": "Benchmark.OneComponent.LeoEcs.Resize",
+    "rootNamespace": "",
+    "references": [
+        "GUID:46d4d7999755919428e313fd6df41c56",
+        "GUID:ac50645cc9722f94394288fbb4eea6f5",
+        "GUID:f9657f10179e94af08566a62f2c6a13f",
+        "GUID:31891341418f3124582ba17526033ca2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Benchmark.BouncyShooter.LeoEcs.Resize",
+    "rootNamespace": "",
+    "references": [
+        "GUID:31891341418f3124582ba17526033ca2",
+        "GUID:46d4d7999755919428e313fd6df41c56",
+        "GUID:08da0a72d66ed3342a8749c9ea75a03e",
+        "GUID:f9657f10179e94af08566a62f2c6a13f",
+        "GUID:0104ae351448541ee9a4ab55eb9d8b69",
+        "GUID:3687cc952c3624919ac685c6b0a7a7b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

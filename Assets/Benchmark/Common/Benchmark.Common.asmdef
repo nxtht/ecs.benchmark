@@ -1,0 +1,16 @@
+{
+    "name": "Benchmark.Common",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9657f10179e94af08566a62f2c6a13f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
